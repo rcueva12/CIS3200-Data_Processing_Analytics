@@ -1,0 +1,10 @@
+Data source: https://www.kaggle.com/parulpandey/us-international-air-traffic-data
+File Size 118MB​
+
+Github Repository: https://github.com/rcueva12/CIS3200-Data_Processing_Analytics/tree/main​​
+
+Elasticsearch Login:  https://e4370728e6b04da7a2f0204627978298.us-central1.gcp.cloud.es.io:9243​​
+User: sa_admin​​
+Password: CalstateLA123​
+
+Azure Login: https://studio.azureml.net/Home/ViewWorkspaceCached/17993356d8fa48389e9a5796ceb6afcb#Workspaces/Experiments/Experiment/17993356d8fa48389e9a5796ceb6afcb.f-id.d100d11d87c74a629d4ebd2d3125ec11/ViewExperiment
